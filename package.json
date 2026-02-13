@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/capri2594/ejercicio5#readme",
   "dependencies": {
+    "axios": "^1.13.5",
     "express": "^5.2.1"
   }
 }
